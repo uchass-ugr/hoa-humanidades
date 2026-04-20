@@ -1,0 +1,52 @@
+@article{mosteller1963,
+  author  = {Mosteller, Frederick and Wallace, David L.},
+  title   = {Inference in an Authorship Problem},
+  journal = {Journal of the American Statistical Association},
+  year    = {1963},
+  volume  = {58},
+  number  = {302},
+  pages   = {275--309}
+}
+
+@article{zachary1977,
+  author  = {Zachary, Wayne W.},
+  title   = {An Information Flow Model for Conflict and Fission in Small Groups},
+  journal = {Journal of Anthropological Research},
+  year    = {1977},
+  volume  = {33},
+  number  = {4},
+  pages   = {452--473}
+}
+
+@article{edunov2016,
+  author  = {Edunov, Sergey and Diuk, Carlos and Filiz, Ismail Onur and Bhagat, Smriti and Burke, Moira},
+  title   = {Three and a Half Degrees of Separation},
+  journal = {Research at Facebook},
+  year    = {2016},
+  url     = {https://research.fb.com/blog/2016/02/three-and-a-half-degrees-of-separation/}
+}
+
+@book{moretti2013,
+  author    = {Moretti, Franco},
+  title     = {Distant Reading},
+  publisher = {Verso},
+  year      = {2013},
+  address   = {London}
+}
+
+@article{juola2015,
+  author  = {Juola, Patrick},
+  title   = {The Rowling Case: A Proposed Standard Analytic Protocol for Authorship Questions},
+  journal = {Digital Scholarship in the Humanities},
+  year    = {2015},
+  volume  = {30},
+  number  = {suppl\_1},
+  pages   = {i100--i113}
+}
+
+@misc{wences2021,
+  author = {Arroyo-Machado, Wenceslao and González Triana, Paola and Barros García, Benamí},
+  title  = {La visualización: mi vida en las redes sociales (feat. Twitter)},
+  year   = {2021},
+  note   = {Charla en la Noche Europea de los Investigadores, Andalucía}
+}

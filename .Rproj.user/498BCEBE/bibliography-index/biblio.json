@@ -1,0 +1,162 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Mosteller",
+                    "given": "Frederick"
+                },
+                {
+                    "family": "Wallace",
+                    "given": "David L."
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "mosteller1963",
+            "issue": "302",
+            "issued": {
+                "date-parts": [
+                    [
+                        1963
+                    ]
+                ]
+            },
+            "page": "275-309",
+            "title": "Inference in an authorship problem",
+            "type": "article-journal",
+            "volume": "58"
+        },
+        {
+            "author": [
+                {
+                    "family": "Zachary",
+                    "given": "Wayne W."
+                }
+            ],
+            "container-title": "Journal of Anthropological Research",
+            "id": "zachary1977",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1977
+                    ]
+                ]
+            },
+            "page": "452-473",
+            "title": "An information flow model for conflict and fission in small groups",
+            "type": "article-journal",
+            "volume": "33"
+        },
+        {
+            "URL": "https://research.fb.com/blog/2016/02/three-and-a-half-degrees-of-separation/",
+            "author": [
+                {
+                    "family": "Edunov",
+                    "given": "Sergey"
+                },
+                {
+                    "family": "Diuk",
+                    "given": "Carlos"
+                },
+                {
+                    "family": "Filiz",
+                    "given": "Ismail Onur"
+                },
+                {
+                    "family": "Bhagat",
+                    "given": "Smriti"
+                },
+                {
+                    "family": "Burke",
+                    "given": "Moira"
+                }
+            ],
+            "container-title": "Research at Facebook",
+            "id": "edunov2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "title": "Three and a half degrees of separation",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Moretti",
+                    "given": "Franco"
+                }
+            ],
+            "id": "moretti2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "publisher": "Verso",
+            "publisher-place": "London",
+            "title": "Distant reading",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Juola",
+                    "given": "Patrick"
+                }
+            ],
+            "container-title": "Digital Scholarship in the Humanities",
+            "id": "juola2015",
+            "issue": "suppl_1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "i100-i113",
+            "title": "The rowling case: A proposed standard analytic protocol for authorship questions",
+            "title-short": "The rowling case",
+            "type": "article-journal",
+            "volume": "30"
+        },
+        {
+            "author": [
+                {
+                    "family": "Arroyo-Machado",
+                    "given": "Wenceslao"
+                },
+                {
+                    "family": "González Triana",
+                    "given": "Paola"
+                },
+                {
+                    "family": "Barros García",
+                    "given": "Benamí"
+                }
+            ],
+            "id": "wences2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "note": "Charla en la Noche Europea de los Investigadores, Andalucía",
+            "title": "La visualización: Mi vida en las redes sociales (feat. twitter)",
+            "title-short": "La visualización",
+            "type": ""
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

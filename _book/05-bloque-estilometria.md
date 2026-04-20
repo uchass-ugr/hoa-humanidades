@@ -1,0 +1,48 @@
+# Bloque C · ¿Quién escribió esto? {#estilometria}
+
+::: tiempo
+10 minutos
+:::
+
+## La idea
+
+**Estilometría:** medir el estilo de un texto con números. Cada autor tiene un "huella dactilar" lingüística: qué conjunciones usa, qué longitud de frase prefiere, qué palabras *vacías* (artículos, preposiciones) aparecen con qué frecuencia.
+
+Las palabras más frecuentes y aparentemente menos importantes ("el", "de", "que") son, paradójicamente, las **más útiles** para identificar autor. Son las que menos controlamos conscientemente al escribir.
+
+## El caso que engancha: J.K. Rowling / Robert Galbraith
+
+En 2013, una novela negra titulada *The Cuckoo's Calling* se publicó bajo el seudónimo **Robert Galbraith**. Tuvo buenas críticas pero ventas discretas.
+
+Un periodista sospechó que detrás podía estar J.K. Rowling. Contactó con Patrick Juola, lingüista computacional. En 30 minutos, con un análisis estilométrico comparando la novela con textos de Rowling y de otros autores, **Juola confirmó la autoría con alta probabilidad**. El *Sunday Times* publicó la historia, Rowling tuvo que reconocerlo, y las ventas se multiplicaron por cien.
+
+**Qué medimos técnicamente (sin entrar en código):**
+
+- Frecuencia de las 100-500 palabras más comunes.
+- Longitud media de frase.
+- Riqueza léxica (palabras únicas / palabras totales).
+
+**La herramienta:** `stylo`, un paquete de R bastante conocido en HC.
+
+## Casos históricos famosos
+
+- **The Federalist Papers** (1787–1788): 12 artículos de autoría disputada entre Hamilton y Madison. Mosteller y Wallace (1963) los atribuyeron a Madison usando estadística. Caso fundacional de la estilometría moderna.
+- **Don Quijote apócrifo** de Avellaneda: estudios recientes tratan de identificar al autor real detrás del seudónimo.
+- **Detección de texto generado por IA**: la estilometría moderna se usa para detectar si un trabajo lo escribió ChatGPT. (Advertencia: funciona regular).
+
+## Lo que mostramos en pantalla
+
+Un dendrograma de *stylo* con 10–15 textos: tres de Rowling, tres de Galbraith, tres de otros autores de novela negra. Los de Rowling/Galbraith aparecen agrupados en la misma rama.
+
+## Conexión con la actualidad
+
+Este mismo tipo de análisis es **el CSI de las humanidades**. Se usa en:
+
+- Peritajes judiciales (lingüística forense).
+- Atribución de documentos históricos.
+- Detección de plagio sofisticado.
+- Análisis de autoría en redes sociales (bots vs. humanos).
+
+## Transición
+
+> *"Hemos hecho tres cosas en media hora: hemos leído millones de palabras sin leerlas, hemos dibujado la red de unos personajes, y hemos pillado a J.K. Rowling. ¿Para qué sirve todo esto en vuestra vida?"*

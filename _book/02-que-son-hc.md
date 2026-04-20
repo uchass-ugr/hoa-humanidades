@@ -1,0 +1,37 @@
+# ¿Qué son las Humanidades Computacionales? {#que-son}
+
+::: tiempo
+5 minutos
+:::
+
+## Una definición en una línea
+
+> **Humanidades Computacionales = hacer preguntas de humanidades usando datos y código.**
+
+Filología, historia, filosofía, bellas artes, estudios culturales, musicología… cualquier disciplina tradicionalmente "de letras" que decide tratar su objeto de estudio como **datos analizables a escala**.
+
+## Tres ingredientes
+
+1. **Un objeto cultural** (un corpus de novelas, una serie, tuits, cuadros, partituras, subtítulos de YouTube…).
+2. **Una pregunta humanística** (¿quién escribió esto? ¿qué palabras definen una época? ¿quiénes se relacionan con quién?).
+3. **Herramientas computacionales** (minería de textos, redes, machine learning, visualización).
+
+## Por qué importa romper el binomio
+
+- Un **estudiante de letras** puede aprender a programar lo suficiente para hacerse preguntas nuevas sobre su campo.
+- Un **estudiante de ciencias** puede descubrir que los problemas más interesantes de la IA actual (modelos de lenguaje, análisis de sentimiento, generación de imágenes) vienen de tradiciones humanísticas.
+- El mercado laboral real los está mezclando: periodismo de datos, industria cultural, patrimonio digital, lingüística forense, diseño de videojuegos narrativos.
+
+## Lo que NO son las HC
+
+- No son "humanidades con PowerPoint".
+- No son solo "digitalizar" textos o archivos.
+- No reemplazan la lectura cercana; la complementan con lectura a distancia (*distant reading*, Franco Moretti).
+
+## Diapo sugerida
+
+Una sola diapositiva con tres círculos que se solapan: **Humanidades**, **Datos**, **Código**. En el centro: *Humanidades Computacionales*.
+
+## Transición
+
+> *"Vamos a ver tres técnicas. La primera responde a la pregunta: ¿de qué habla la gente cuando habla?"*

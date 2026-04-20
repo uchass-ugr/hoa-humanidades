@@ -1,0 +1,42 @@
+/* Estilos ligeros para el bookdown */
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+.tip {
+  background-color: #eef7ff;
+  border-left: 4px solid #3498db;
+  padding: 0.8em 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+}
+
+.aviso {
+  background-color: #fff6e5;
+  border-left: 4px solid #f39c12;
+  padding: 0.8em 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+}
+
+.tiempo {
+  display: inline-block;
+  background-color: #e91e63;
+  color: white;
+  padding: 0.1em 0.6em;
+  border-radius: 3px;
+  font-weight: bold;
+  font-size: 0.9em;
+}

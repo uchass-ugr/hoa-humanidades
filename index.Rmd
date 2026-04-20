@@ -1,0 +1,43 @@
+---
+title: "Ni de letras ni de ciencias"
+subtitle: "El maravilloso mundo de las Humanidades Computacionales"
+author:
+  - Benamí Barros García (Universidad de Granada)
+  - Nicolás Robinson-García (Universidad de Granada)
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [references.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: ""
+description: "Materiales de una charla divulgativa de 60 minutos sobre Humanidades Computacionales para alumnado de bachillerato."
+---
+
+# Presentación {-}
+
+Este libro reúne los materiales de una **charla divulgativa de 60 minutos** pensada para alumnado de bachillerato. La charla se titula *Ni de letras ni de ciencias: el maravilloso mundo de las Humanidades Computacionales* y está diseñada para dos ponentes.
+
+## ¿Qué vas a encontrar aquí? {-}
+
+- La **estructura completa** de la charla en seis secciones (apertura, definición, tres bloques temáticos y cierre).
+- **Materiales de apoyo** y referencias a los ejemplos que usamos.
+- Dos **anexos**: uno con una demo adicional sobre letras de canciones y otro con el guion detallado para el docente.
+
+## Objetivos {-}
+
+Al terminar la charla, el alumnado debería:
+
+1. Ser capaz de responder a la pregunta "¿qué son las Humanidades Computacionales?" con un ejemplo propio.
+2. Reconocer tres técnicas básicas (minería de textos, análisis de redes y estilometría) y a qué tipo de preguntas responden.
+3. Cuestionar la separación rígida entre "letras" y "ciencias" en su propia trayectoria.
+
+## Duración y formato {-}
+
+- **60 minutos** en total, incluyendo preguntas.
+- **Cero código en pantalla**: toda la charla se apoya en imágenes y visualizaciones preparadas.
+- Dos ponentes alternándose por bloque.
+
+## Créditos {-}
+
+Algunos materiales visuales se reaprovechan de la charla *La visualización* (Noche Europea de l@s Investigador@s, 2021) de Wenceslao Arroyo-Machado, Paola González Triana y Benamí Barros García, con su permiso.

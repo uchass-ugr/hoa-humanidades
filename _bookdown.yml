@@ -1,0 +1,17 @@
+book_filename: "hoa-humanidades"
+language:
+  ui:
+    chapter_name: "Parte "
+delete_merged_file: true
+new_session: yes
+rmd_files:
+  - "index.Rmd"
+  - "01-gancho.Rmd"
+  - "02-que-son-hc.Rmd"
+  - "03-bloque-textos.Rmd"
+  - "04-bloque-redes.Rmd"
+  - "05-bloque-estilometria.Rmd"
+  - "06-cierre.Rmd"
+  - "07-referencias.Rmd"
+  - "anexo-a-canciones.Rmd"
+  - "anexo-b-guion-docente.Rmd"

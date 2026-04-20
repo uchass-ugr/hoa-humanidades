@@ -1,0 +1,46 @@
+# Cierre · ¿Y esto para qué? {#cierre}
+
+::: tiempo
+5 minutos + 5 minutos de preguntas
+:::
+
+## El mensaje central
+
+> **"Las preguntas más interesantes hoy no caben ni en letras ni en ciencias. Las hacen las dos juntas."**
+
+## Dónde se trabaja con Humanidades Computacionales
+
+- **Periodismo de datos**: El País, La Vanguardia, The New York Times tienen equipos dedicados.
+- **Industria cultural**: Netflix, Spotify y editoriales usan análisis de texto y redes para recomendar contenido.
+- **Patrimonio digital**: museos, archivos y bibliotecas digitalizan y analizan sus colecciones.
+- **Lingüística forense**: peritajes judiciales, análisis de amenazas, identificación de autores anónimos.
+- **IA generativa**: los LLM como ChatGPT o Claude son, literalmente, productos de humanidades computacionales a escala masiva.
+- **Videojuegos narrativos**: los guionistas colaboran con ingenieros de IA para generar diálogos coherentes.
+
+## Dónde estudiarlo
+
+- **Grados**: Filología, Estudios Ingleses, Historia, Traducción e Interpretación, Información y Documentación, Comunicación Audiovisual, Periodismo… cualquiera puede ser punto de entrada si se combina con formación técnica.
+- **Itinerarios mixtos**: cada vez más universidades españolas ofrecen dobles grados o menciones.
+- **Másteres especializados**: hay programas específicos de Humanidades Digitales en varias universidades españolas (UNED, UGR, Salamanca, UPF…).
+- **Auto-formación**: comunidades como *The Programming Historian* (en español) son gratuitas y de gran calidad.
+
+## Recursos para seguir tirando del hilo
+
+- *The Programming Historian* — <https://programminghistorian.org/es/>
+- *Digital Humanities Now* — <https://digitalhumanitiesnow.org/>
+- Voyant Tools (análisis de texto en el navegador) — <https://voyant-tools.org/>
+- Gephi (visualización de redes, software libre) — <https://gephi.org/>
+
+## Última diapositiva
+
+Una cita corta, legible a 5 metros, y los contactos de los dos ponentes.
+
+> *"Si alguna vez os dicen que tenéis que elegir entre letras y ciencias, contestad: ¿por qué?"*
+
+## Preguntas (5 minutos)
+
+Dejar tiempo real. Preparar 3 respuestas breves para las preguntas típicas:
+
+1. *"¿Hace falta saber programar?"* — Al principio no; luego, un poco ayuda mucho. Con R o Python se empieza.
+2. *"¿La IA va a sustituir esto?"* — No: la IA **es** esto, llevado al extremo. Quien entienda cómo funciona por debajo tendrá ventaja.
+3. *"¿Qué grado escojo?"* — El que te apasione. La parte computacional se aprende después; la pasión, no.
