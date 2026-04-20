@@ -14,30 +14,30 @@ github-repo: ""
 description: "Materiales de una charla divulgativa de 60 minutos sobre Humanidades Computacionales para alumnado de bachillerato."
 ---
 
-# Presentación {-}
+# Presentación {.unnumbered}
 
 Este libro reúne los materiales de una **charla divulgativa de 60 minutos** pensada para alumnado de bachillerato. La charla se titula *Ni de letras ni de ciencias: el maravilloso mundo de las Humanidades Computacionales* y está diseñada para dos ponentes.
 
-## ¿Qué vas a encontrar aquí? {-}
+## ¿Qué vas a encontrar aquí? {.unnumbered}
 
-- La **estructura completa** de la charla en seis secciones (apertura, definición, tres bloques temáticos y cierre).
-- **Materiales de apoyo** y referencias a los ejemplos que usamos.
-- Dos **anexos**: uno con una demo adicional sobre letras de canciones y otro con el guion detallado para el docente.
+-   La **estructura completa** de la charla en seis secciones (apertura, definición, tres bloques temáticos y cierre).
+-   **Materiales de apoyo** y referencias a los ejemplos que usamos.
+-   Dos **anexos**: uno con una demo adicional sobre letras de canciones y otro con el guion detallado para el docente.
 
-## Objetivos {-}
+## Objetivos {.unnumbered}
 
 Al terminar la charla, el alumnado debería:
 
-1. Ser capaz de responder a la pregunta "¿qué son las Humanidades Computacionales?" con un ejemplo propio.
-2. Reconocer tres técnicas básicas (minería de textos, análisis de redes y estilometría) y a qué tipo de preguntas responden.
-3. Cuestionar la separación rígida entre "letras" y "ciencias" en su propia trayectoria.
+1.  Ser capaz de responder a la pregunta "¿qué son las Humanidades Computacionales?" con un ejemplo propio.
+2.  Reconocer tres técnicas básicas (minería de textos, análisis de redes y estilometría) y a qué tipo de preguntas responden.
+3.  Cuestionar la separación rígida entre "letras" y "ciencias" en su propia trayectoria.
 
-## Duración y formato {-}
+## Duración y formato {.unnumbered}
 
-- **60 minutos** en total, incluyendo preguntas.
-- **Cero código en pantalla**: toda la charla se apoya en imágenes y visualizaciones preparadas.
-- Dos ponentes alternándose por bloque.
+-   **60 minutos** en total, incluyendo preguntas.
+-   **Cero código en pantalla**: toda la charla se apoya en imágenes y visualizaciones preparadas.
+-   Dos ponentes alternándose por bloque.
 
-## Créditos {-}
+## Créditos {.unnumbered}
 
-Algunos materiales visuales se reaprovechan de la charla *La visualización* (Noche Europea de l@s Investigador@s, 2021) de Wenceslao Arroyo-Machado, Paola González Triana y Benamí Barros García, con su permiso.
+Algunos materiales visuales se reaprovechan de la charla *La visualización* (Noche Europea de [l\@s](mailto:l@s){.email} [Investigador\@s](mailto:Investigador@s){.email}, 2021) de Wenceslao Arroyo-Machado, Paola González Triana y Benamí Barros García, con su permiso.
